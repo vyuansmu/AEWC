@@ -12,7 +12,7 @@ before_install:
 
 install: 
   
-  -echo "Reached Install Section"
+  - echo "Reached Install Section"
   
 script:
 
